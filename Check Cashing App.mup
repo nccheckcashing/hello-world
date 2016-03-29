@@ -1,0 +1,115 @@
+{
+  "title": "Check Cashing App",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "New Customer",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "Scan ID",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "Mobile Phone Verification",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "Take Photo",
+                  "id": 7,
+                  "ideas": {
+                    "1": {
+                      "title": "Issue NFC Tag",
+                      "id": 8,
+                      "attr": {
+                        "style": {}
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              25.5,
+              61.5,
+              1
+            ],
+            "style": {}
+          }
+        }
+      }
+    },
+    "11": {
+      "title": "Customer ",
+      "id": 9,
+      "attr": {
+        "position": [
+          171.5,
+          150.5,
+          1
+        ],
+        "style": {}
+      },
+      "ideas": {
+        "1": {
+          "title": "Login",
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Profile",
+              "id": 11,
+              "ideas": {
+                "1": {
+                  "title": "Check Cashing",
+                  "id": 12,
+                  "ideas": {
+                    "1": {
+                      "title": "Check Scan",
+                      "id": 14,
+                      "ideas": {
+                        "1": {
+                          "title": "Check Verification",
+                          "id": 15
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Bill Payment",
+                  "id": 13,
+                  "ideas": {
+                    "1": {
+                      "title": "Add Biller",
+                      "id": 16
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "title": "Report",
+      "id": 19
+    },
+    "-1": {
+      "title": "Customer Search",
+      "id": 17
+    },
+    "-2": {
+      "title": "Check Search",
+      "id": 18
+    },
+    "-3": {
+      "title": "Admin",
+      "id": 20
+    }
+  },
+  "links": []
+}
